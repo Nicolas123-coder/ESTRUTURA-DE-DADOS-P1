@@ -1,6 +1,6 @@
 # ESTRUTURA-DE-DADOS-P1
 
-## Dados 
+# Dados :
 
-# Nicolas de Barros
-# TIA : 32070837
+## Nicolas de Barros
+## TIA : 32070837
