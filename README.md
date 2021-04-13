@@ -1,2 +1,6 @@
 # ESTRUTURA-DE-DADOS-P1
-Prova P1 de estrutura de dados 
+
+## Dados 
+
+# Nicolas de Barros
+# TIA : 32070837
